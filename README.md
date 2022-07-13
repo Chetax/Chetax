@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Chetax
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C language And C# 
-- 💞️ I’m looking to collaborate on Game Development
+- 👋 Hi, I’m @Chetan_24
+- 👀 I’m interested in Competitive Programming
+- 🌱 I’m currently learning C++ 
+- 💞️ I’m looking to collaborate on <\bash>
 - 📫 How to reach me :via padhenchetan@gmail.com
 
 <!---
