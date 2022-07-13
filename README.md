@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chetan_24
+- 👋 Hi, I’m @Chetan Padhen
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on <\bash>
