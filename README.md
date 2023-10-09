@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **padhenchetan@gmail.com**
 
+
+[![An image of @chetax's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chetax)](https://holopin.io/@chetax)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chetanpadhen" target="blank"><img align="center" src="./Twiiter.png" alt="twiiterHandle" height="30" width="40" /></a>
