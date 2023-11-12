@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/chetanpadhen" target="blank"><img align="center" src="./Twiiter.png" alt="twiiterHandle" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chetan-padhen-501416222/" target="blank"><img align="center" src="./download.png" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chetan-padhen-501416222/" target="blank"><img align="center" src="./download.png" alt="LinkedIn" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/chetan_24" target="blank"><img align="center" src="./Leetcode.png" alt="Leetcode" height="30" width="40" /></a>
 
