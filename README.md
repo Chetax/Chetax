@@ -1,7 +1,13 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e  )
-<h1 align="center">Hi 👋, I'm Chetan Padhen</h1>
-<h3 align="center">Computer Science Student In PCCOE PUNE,INDIA.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
+  <h1 align="center">Hi 👋, I'm Chetan Padhen</h1>
+  <img alt="Coding" align="center" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
+
+<p>I'm  From Nagpur Also Know As Orange City.
+I am Persuing My Bachelor Desgree in Computer From Pimpri Chinchwad Collage Of Enginerring
+Which Enable Me To Desgin And Develop Complex Software System. 
+I possess a set of technical skills, including C/C++, HTML, CSS, JavaScript, React, Node.js, MongoDB, and Express.js.Apart From Technical Skills I Have team management and leadership skill.
+My Project experience and open source contribution covers both front-end and back-end development, enabling me to create robust and responsive Web applications.
+I Completet Hactoberfest Challnge by merging six pull requests in open-source projects.
+My future goal is to contribute as a software developer intern.</p>
 
 <p align="left"> <a href="https://twitter.com/chetanpadhen" target="blank"><img src="https://img.shields.io/twitter/follow/chetanpadhen?logo=twitter&style=for-the-badge" alt="chetanpadhen" /></a> </p>
 
