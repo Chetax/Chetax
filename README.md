@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Chetan Padhen</h1>
-  <img alt="Coding" align="center" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
+  <img alt="Coding" align="center" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x400">
 
 <p>I'm  From Nagpur Also Know As Orange City.
 I am Persuing My Bachelor Desgree in Computer From Pimpri Chinchwad Collage Of Enginerring
