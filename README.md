@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href=""><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6"></a>
-  <a href="[https://www.linkedin.com/in/chetan-padhen-501416222/]" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6">    <a href="[https://twitter.com/ChetanPadhe](https://twitter.com/ChetanPadhen)" target="_blank"><img height="30" src="https://img.shields.io/badge/Twitter-Click-%230e75b6"></a>
+  <a href="https://www.linkedin.com/in/chetan-padhen-501416222/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6">    <a href="[https://twitter.com/ChetanPadhe](https://twitter.com/ChetanPadhen)" target="_blank"><img height="30" src="https://img.shields.io/badge/Twitter-Click-%230e75b6"></a>
 </p>
 
 ## :zap: About Me 👦
@@ -56,7 +56,7 @@
 ## :zap: Connect with me ✍️
 <p align="center">
   <!-- LinkedIn -->
-  <a href="[https://www.linkedin.com/in/chetan-padhen-501416222/)]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avdhesh-varshney-5314a4233" /></a>
+  <a href="https://www.linkedin.com/in/chetan-padhen-501416222/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avdhesh-varshney-5314a4233" /></a>
   <!-- X -->
   <a href="https://twitter.com/ChetanPadhe" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="__avdhesh__" /></a>
    <!-- HashNode -->
