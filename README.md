@@ -27,7 +27,7 @@
 <table align="center">
   <tr>
     <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Contributor at <br> <a href="https://hacktoberfest.com/">Hacktoberfest'23</a> </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Contributor at <br> <a href="https://www.codepeak.tech/">Code Peak'23</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Contributor at <br> <a href="https://postimg.cc/jLVz3PkK">Code Peak'23</a> </td>
     </tr>
 </table>
 
@@ -45,6 +45,8 @@
     <td>Code Peak'23</td>
     <td>🏅 Ranked 40th With out of 500+ participants, Top 100.</td>
   </tr>
+</table>
+
 </table>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
