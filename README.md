@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6"></a>
+  <a href="https://chetanpadhenportfolio.vercel.app/"><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6"></a>
   <a href="https://www.linkedin.com/in/chetan-padhen-501416222/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6">    <a href="[https://twitter.com/ChetanPadhe](https://twitter.com/ChetanPadhen)" target="_blank"><img height="30" src="https://img.shields.io/badge/Twitter-Click-%230e75b6"></a>
 </p>
 
