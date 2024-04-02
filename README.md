@@ -14,7 +14,7 @@
 
 ## :zap: About Me 👦
 - 👋 Hi, I'm a B.Tech Student of **Pimpri Chinchwad Collage Of Engineering** 🧑‍💻🎉
-- 🔭 I’m currently working on my **Full Stack skills!** 💻🚀
+- 🔭 I’m currently working on my **Full Stack skills! The  Goal Is To increase Customers,Efficiency & Money** 💻🚀
 - 🎊 I have a keen interest in **Full stack development** and I love developing softwares, websites, models, and web apps 🏈🎯
 - 🎭 I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on **GitHub** and collaborate with others in the open source community 🎰♠️
 - 📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at padhenchetan@gmail.com. I'm always up for a good conversation! 📩👋
