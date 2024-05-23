@@ -46,6 +46,14 @@
     <td>Code Peak'23</td>
     <td>🏅 Ranked 40th With out of 500+ participants, Top 100.</td>
   </tr>
+  <tr>
+   <td>1st Runner Up In National Lavel Hackthon Alpha Byte</td>
+    <td>
+      <a href="https://x.com/ChetanPadhen/status/1772325191688900883">
+        <img src="https://drive.google.com/file/d/138rbNaREBdgPM_xMwZyqv_C4xaHwSsdw/view?usp=sharing" alt="My Holopin badges" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 </table>
