@@ -50,7 +50,7 @@
    <td>1st Runner Up In National Lavel Hackthon Alpha Byte</td>
     <td>
       <a href="https://x.com/ChetanPadhen/status/1772325191688900883">
-        <img src="https://drive.google.com/file/d/138rbNaREBdgPM_xMwZyqv_C4xaHwSsdw/view?usp=sharing" alt="My Holopin badges" />
+        <img src="./GJiQXDpWEAARA1V.jpg" alt="AlphaByte" />
       </a>
     </td>
   </tr>
