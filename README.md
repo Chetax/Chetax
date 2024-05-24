@@ -43,21 +43,25 @@
     </td>
   </tr>
   <tr>
-    <td>Code Peak'23</td>
-    <td>🏅 Ranked 40th With out of 500+ participants, Top 100.</td>
+    <td>Code Peak'23 🏅 Ranked 40th With out of 500+ participants, Top 100.</td>
+    <td>
+      <a href="https://www.codepeak.tech/">
+        <img style="height: 25vh;"  src="https://github.com/Chetax/Chetax/assets/99749401/273ff0fc-0bf8-464e-be87-1599f4f44c39" alt="AlphaByte" />
+      </a>
+    </td> 
   </tr>
   <tr>
    <td>1st Runner Up In National Lavel Hackthon Alpha Byte</td>
     <td>
       <a href="https://x.com/ChetanPadhen/status/1772325191688900883">
-        <img src="./GJiQXDpWEAARA1V.jpg" alt="AlphaByte" />
+        <img style="height: 25vh;"  src="https://github.com/Chetax/Chetax/assets/99749401/f790f2e0-224d-4d64-91da-23bd41f16a0b" alt="AlphaByte" />
       </a>
     </td>
      <tr>
    <td>Participting In SOCIAL SUMMER OF CODE SEASON 3 June-24 to july-24</td>
     <td>
       <a href="https://ssocseason3.devfolio.co/">
-        <img src="./SSOCBadge.png" alt="ssocseason3" />
+        <img style="height: 25vh;" src="https://github.com/Chetax/Chetax/assets/99749401/3b55e727-9c9d-4768-bfae-c0036d75eb3b" alt="ssocseason3" />
       </a>
     </td>
   </tr>
