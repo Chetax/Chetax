@@ -57,7 +57,7 @@
    <td>Participting In SOCIAL SUMMER OF CODE SEASON 3 June-24 to july-24</td>
     <td>
       <a href="https://ssocseason3.devfolio.co/">
-        <img src="./SSOC Badge.png" alt="ssocseason3" />
+        <img src="./SSOCBadge.png" alt="ssocseason3" />
       </a>
     </td>
   </tr>
