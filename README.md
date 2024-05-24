@@ -53,6 +53,13 @@
         <img src="./GJiQXDpWEAARA1V.jpg" alt="AlphaByte" />
       </a>
     </td>
+     <tr>
+   <td>Participted In SOCIAL SUMMER OF CODE SEASON 3</td>
+    <td>
+      <a href="https://ssocseason3.devfolio.co/">
+        <img src="./GJiQXDpWEAARA1V.jpg" alt="AlphaByte" />
+      </a>
+    </td>
   </tr>
 </table>
 
