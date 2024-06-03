@@ -43,7 +43,7 @@
     </td>
   </tr>
   <tr>
-    <td>Code Peak'23 🏅 Ranked 40th With out of 500+ participants, Top 100.</td>
+    <td>Code Peak'23 Open Source Program🏅 Ranked 40th With out of 500+ participants, Top 100.</td>
     <td>
       <a href="https://www.codepeak.tech/">
         <img style="height: 25vh;"  src="https://github.com/Chetax/Chetax/assets/99749401/273ff0fc-0bf8-464e-be87-1599f4f44c39" alt="AlphaByte" />
@@ -58,7 +58,7 @@
       </a>
     </td>
      <tr>
-   <td>Participting In SOCIAL SUMMER OF CODE SEASON 3 June-24 to july-24</td>
+   <td>Participting In SOCIAL SUMMER OF CODE SEASON 3(Open Source Program) June-24 to july-24</td>
     <td>
       <a href="https://ssocseason3.devfolio.co/">
         <img style="height: 25vh;" src="https://github.com/Chetax/Chetax/assets/99749401/3b55e727-9c9d-4768-bfae-c0036d75eb3b" alt="ssocseason3" />
