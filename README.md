@@ -78,7 +78,7 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/chetan-padhen-501416222/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avdhesh-varshney-5314a4233" /></a>
   <!-- X -->
-  <a href="https://twitter.com/ChetanPadhe" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="__avdhesh__" /></a>
+  <a href="https://x.com/ChetanPadhen" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="__avdhesh__" /></a>
    <!-- HashNode -->
   <a href="https://hashnode.com/@Chetan2406" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@agamechanger" /></a>
 </p>
