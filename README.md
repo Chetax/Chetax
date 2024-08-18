@@ -58,10 +58,10 @@
       </a>
     </td>
      <tr>
-   <td>Participting In SOCIAL SUMMER OF CODE SEASON 3(Open Source Program) June-24 to july-24</td>
+   <td>SOCIAL SUMMER OF CODE SEASON 3(Open Source Program) June-24 to July-24</td>
     <td>
       <a href="https://ssocseason3.devfolio.co/">
-        <img style="height: 25vh;" src="https://github.com/Chetax/Chetax/assets/99749401/3b55e727-9c9d-4768-bfae-c0036d75eb3b" alt="ssocseason3" />
+        <img style="height: 25vh;" src="https://github.com/user-attachments/assets/c7dd5868-0f6a-4d34-8131-5e33add0ea06" alt="ssocseason3" />
       </a>
     </td>
   </tr>
