@@ -1,23 +1,23 @@
 <h2>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I'm+Chetan+Padhen)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=AN+OPEN+SOURCE+DEVELOPER;A+WEB+DEVELOPER;A+COMPETITIVE+PROGRAMMER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&width=1000&height=100&repeat=false&lines=I'm+Chetan+Padhen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=AN+OPEN+SOURCE+DEVELOPER;A+SOFTWARE+ENGINEER;AI+ENGINEER)](https://git.io/typing-svg)
 
 <p align='center'>
   <b><i>Let's connect! Find me on the web.</i></b>
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-seven-omega-65.vercel.app/" target="_blank"><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6"></a>
   <a href="https://www.linkedin.com/in/chetan-padhen-501416222/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6">  
   <a href="https://x.com/ChetanPadhen" target="_blank"><img height="30" src="https://img.shields.io/badge/Twitter-Click-%230e75b6"></a>
 </p>
 
-## :zap: About Me 👦
-- 👋 Hi, I'm a B.Tech Student of **Pimpri Chinchwad Collage Of Engineering** 🧑‍💻🎉
-- 🔭 I’m currently working on my **Full Stack skills! The  Goal Is To increase Customers,Efficiency & Money** 💻🚀
-- 🎊 I have a keen interest in **Full stack development** and I love developing softwares, websites, models, and web apps 🏈🎯
-- 🎭 I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on **GitHub** and collaborate with others in the open source community 🎰♠️
+## ⚡ About Me
+- 👋 Hi, I'm **Chetan Padhen**, a **Software Engineer 1 at Consultadd**
+- 🧠 I build **AI-powered systems, distributed pipelines, and backend architectures**
+- ⚙️ Currently working on **document understanding systems, RAG pipelines, and microservices**
+- 🚀 Passionate about turning **complex engineering problems into scalable products**
+- 🤝 Open to collaboration on **AI systems, backend infrastructure, and innovative tech projects**
 - 📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at padhenchetan@gmail.com. I'm always up for a good conversation! 📩👋
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
