@@ -76,21 +76,21 @@
 ## :zap: Connect with me ✍️
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/chetan-padhen-501416222/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avdhesh-varshney-5314a4233" /></a>
+  <a href="https://www.linkedin.com/in/chetan-padhen-501416222/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
   <!-- X -->
-  <a href="https://x.com/ChetanPadhen" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="__avdhesh__" /></a>
+  <a href="https://x.com/ChetanPadhen" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
    <!-- HashNode -->
-  <a href="https://hashnode.com/@Chetan2406" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@agamechanger" /></a>
+  <a href="https://hashnode.com/@Chetan2406" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
 </p>
 
 ## :zap: My CP Handles 🎯
 <p align="center">
   <!-- LeetCode -->
-  <a href="https://leetcode.com/Chetan_24/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="avdheshvarshney" /></a>
+  <a href="https://leetcode.com/Chetan_24/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  /></a>
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/chetan_2406" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="avdhesh_1" /></a>
+  <a href="https://www.codechef.com/users/chetan_2406" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
    <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/padhenchetan" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="avdhesh_varshney" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/padhenchetan" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ## :zap: Tools and Technologies ⛷️
